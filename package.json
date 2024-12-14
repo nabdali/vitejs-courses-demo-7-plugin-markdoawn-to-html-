@@ -1,0 +1,15 @@
+{
+  "name": "vitejs-courses-demo-7-plugin-markdoawn-to-html",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "marked": "^15.0.3",
+    "vite": "^6.0.1"
+  }
+}
